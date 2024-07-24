@@ -1,0 +1,7 @@
+#winasqa <yahillu>
+piq suchu kaqlla;
+llapan chayq() {
+    llapan a = 5;
+    qilluq << "El valor es: " << a << chirtu;
+    kuti 0;
+}
